@@ -1,0 +1,13 @@
+[Event "Majkoop"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Morozevich, A."]
+[Black "Ulibin, M."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3R3r/1b2kpp1/p1q1p2p/1pn5/8/4Q1B1/PPP2PPP/3R2K1 w - - 0 1"]
+[PlyCount "1"]
+
+1. Bh4+ (1. Bh4+ g5 (1... f6 2. Qxc5+ Qxc5 3. R1d7#) 2. Bxg5+ hxg5 3. Qxg5+ f6
+4. Qg7#) 1-0

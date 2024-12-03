@@ -1,0 +1,17 @@
+{
+  "name": "chess-trainer-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thalison Amaral",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mliebelt/pgn-parser": "^1.4.15",
+    "express": "^4.19.2",
+    "pgn-parser": "^2.2.0"
+  }
+}
